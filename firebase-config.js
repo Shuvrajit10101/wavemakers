@@ -3,12 +3,12 @@
 // TODO: Replace with your actual Firebase project config
 // Get this from: Firebase Console > Project Settings > General > Your apps > SDK setup and configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyAmizwbvGB_3Id1nRxu0ts1fqG2MBVpzqY",
+  authDomain: "wavemakers-a77b0.firebaseapp.com",
+  projectId: "wavemakers-a77b0",
+  storageBucket: "wavemakers-a77b0.firebasestorage.app",
+  messagingSenderId: "713413840489",
+  appId: "1:713413840489:web:c9973080750dd46c0b1cf8"
 };
 
 // Initialize Firebase
